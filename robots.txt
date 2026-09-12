@@ -1,0 +1,6 @@
+# Publish at https://johnniepatt.github.io/robots.txt to take effect.
+# A copy under /Mockup_Website01/ is not the domain's robots.txt.
+User-agent: *
+Allow: /
+
+Sitemap: https://johnniepatt.github.io/Mockup_Website01/sitemap.xml
